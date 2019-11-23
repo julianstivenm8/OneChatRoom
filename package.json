@@ -1,0 +1,24 @@
+{
+  "name": "OneChatRoom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianstivenm8/OneChatRoom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianstivenm8/OneChatRoom/issues"
+  },
+  "homepage": "https://github.com/julianstivenm8/OneChatRoom#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "wepack-cli": "0.0.1-security"
+  }
+}
