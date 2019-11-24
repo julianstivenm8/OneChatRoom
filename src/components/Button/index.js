@@ -1,5 +1,6 @@
 import React from 'react'
-import { ButtonContainer } from './styles'
+import { ButtonContainer, Text } from './styles'
 export const Button = () => (
-  <ButtonContainer>SASKDPSAND</ButtonContainer>
+
+  <ButtonContainer><Text>asdsdasdcfdssd</Text></ButtonContainer>
 )
